@@ -1,4 +1,7 @@
-# api documentation for  [sander (v0.6.0)](https://github.com/rich-harris/sander#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-sander.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sander) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sander.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sander)
+# npmdoc-sander
+
+#### basic api documentation for  [sander (v0.6.0)](https://github.com/rich-harris/sander#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-sander.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sander) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sander.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sander)
+
 #### Promise-based power tool for common filesystem tasks
 
 [![NPM](https://nodei.co/npm/sander.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sander)
@@ -67,7 +70,8 @@
         "pretest": "npm run build",
         "test": "mocha"
     },
-    "version": "0.6.0"
+    "version": "0.6.0",
+    "bin": {}
 }
 ```
 
